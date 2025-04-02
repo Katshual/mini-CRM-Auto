@@ -1,10 +1,10 @@
 <?php
 
-namespace App\\Mail;
+namespace App\Mail;
 
-use Illuminate\\Bus\\Queueable;
-use Illuminate\\Mail\\Mailable;
-use Illuminate\\Queue\\SerializesModels;
+use Illuminate\Bus\Queueable;
+use Illuminate\Mail\Mailable;
+use Illuminate\Queue\SerializesModels;
 
 /**
  * Classe Mailable pour envoyer des e-mails liés aux campagnes.
