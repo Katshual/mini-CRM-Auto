@@ -1,9 +1,9 @@
 <?php
 
-namespace App\\Http\\Controllers; // Correction du namespace
+namespace App\Http\Controllers;
 
-use Illuminate\\Http\\Request; // Correction de l'importation
-use App\\Models\\Campaign;     // Correction de l'importation
+use Illuminate\Http\Request; // Importation de la classe Request pour gérer les requêtes HTTP
+use App\Models\Campaign;     // Importation du modèle Campaign pour interagir avec la base de données
 
 class CampaignController extends Controller
 {
