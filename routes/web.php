@@ -1,7 +1,7 @@
 <?php
 
-use Illuminate\\Support\\Facades\\Route;
-use App\\Http\\Controllers\\CampaignController; // Importation du CampaignController
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\CampaignController; // Importation du CampaignController
 
 /*
 |--------------------------------------------------------------------------
